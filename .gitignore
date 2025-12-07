@@ -1,0 +1,15 @@
+# GitBook
+_book/
+node_modules/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
