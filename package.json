@@ -1,0 +1,19 @@
+{
+  "name": "nostria-docs",
+  "version": "1.0.0",
+  "description": "Comprehensive documentation for Nostria - Your Social Media",
+  "scripts": {
+    "validate": "node validate-structure.js",
+    "serve": "echo 'GitBook structure created. You can use GitBook CLI, HonKit, or mdbook to build this.'",
+    "info": "echo 'This documentation is structured for GitBook. See README.md for build instructions.'"
+  },
+  "keywords": [
+    "nostria",
+    "nostr",
+    "documentation",
+    "gitbook"
+  ],
+  "author": "Nostria Team",
+  "license": "Unlicense",
+  "devDependencies": {}
+}
