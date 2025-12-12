@@ -67,7 +67,8 @@ Additional helpful information.
 
 ## Quick Links
 
-- 🌐 **Website**: [nostria.app](https://nostria.app)
+- 🌐 **Website**: [www.nostria.app](https://www.nostria.app)
+- 🌐 **App**: [nostria.app](https://nostria.app)
 - 💻 **GitHub**: [github.com/nostria-app/nostria](https://github.com/nostria-app/nostria)
 - 📱 **Download**: Available on [Microsoft Store](https://apps.microsoft.com/detail/9n7f0twq0d8g) and [GitHub Releases](https://github.com/nostria-app/nostria/releases)
 
