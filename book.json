@@ -1,0 +1,30 @@
+{
+  "title": "Nostria Documentation",
+  "description": "Comprehensive documentation for Nostria - Your Social Media",
+  "author": "Nostria Team",
+  "language": "en",
+  "gitbook": "3.x.x",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "theme-default",
+    "search",
+    "expandable-chapters",
+    "anchors",
+    "theme-codemirror"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  },
+  "links": {
+    "sidebar": {
+      "Nostria Website": "https://nostria.app",
+      "GitHub": "https://github.com/nostria-app/nostria"
+    }
+  }
+}
