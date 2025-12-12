@@ -13,15 +13,11 @@
     "expandable-chapters",
     "search-plus",
     "github",
-    "splitter",
     "back-to-top-button"
   ],
   "pluginsConfig": {
     "theme-default": {
-      "showLevel": true,
-      "styles": {
-        "website": "styles/website.css"
-      }
+      "showLevel": true
     },
     "github": {
       "url": "https://github.com/nostria-app/nostria"
@@ -33,8 +29,5 @@
       "📱 Nostria App": "https://nostria.app",
       "💻 GitHub": "https://github.com/nostria-app/nostria"
     }
-  },
-  "styles": {
-    "website": "styles/website.css"
   }
 }
