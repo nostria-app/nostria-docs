@@ -1,22 +1,44 @@
 # Nostria Documentation
 
-Welcome to the comprehensive documentation for **Nostria** - Your decentralized social media platform!
+**Welcome to Nostria** - Your Social Media
+
+*** NOTICE: The majority of this documentation was generated using AI. There are many mistakes and inaccuracies. Please help us improve it by submitting corrections or suggestions via GitHub. ***
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![GitBook](https://img.shields.io/badge/docs-GitBook-blue)](https://nostria-app.github.io/nostria-docs/)
+[![Nostr](https://img.shields.io/badge/protocol-Nostr-purple)](https://nostr.com/)
 
-## What is Nostria?
+---
 
-Nostria is a revolutionary social media application built on the Nostr protocol, offering a truly decentralized social networking experience. Unlike traditional platforms controlled by corporations, Nostria puts you in complete control of your data, privacy, and social experience.
+## 🌟 What is Nostria?
 
-### Key Highlights
+Nostria is a **revolutionary social media application** built on the Nostr protocol, offering a truly decentralized social networking experience. Unlike traditional platforms controlled by corporations, Nostria puts **you** in complete control of your data, privacy, and social experience.
 
-- 🔓 **Decentralized & Censorship-Resistant**: Built on the open Nostr protocol
-- 🚀 **Fast & Responsive**: Optimized for global scale and performance
-- 🔐 **Privacy-First**: No email or phone number required to sign up
-- 💾 **Data Ownership**: You control your own data, not corporations
-- 🌍 **Cross-Platform**: Available on Web, Desktop (Windows, macOS, Linux), and Mobile
-- ✨ **Feature-Rich**: Posts, messaging, communities, custom algorithms, and more
+> 💡 **Tip**: New to decentralized social media? Start with our [Quick Start Guide](getting-started/quick-start.md) to get up and running in under 5 minutes!
+
+---
+
+## ✨ Key Highlights
+
+### 🔓 Decentralized & Censorship-Resistant
+Built on the open Nostr protocol - no single point of control or failure
+
+### 🚀 Fast & Responsive
+Optimized for global scale with lightning-fast performance
+
+### 🔐 Privacy-First Design
+No email, phone number, or personal information required to sign up
+
+### 💾 True Data Ownership
+You control your own data, not corporations - export anytime
+
+### 🌍 Cross-Platform Support
+Available on Web, Desktop (Windows, macOS, Linux), and Mobile
+
+### ✨ Feature-Rich Experience
+Posts, messaging, communities, custom algorithms, and much more
+
+---
 
 ## Documentation Sections
 

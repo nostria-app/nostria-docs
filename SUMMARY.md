@@ -64,7 +64,8 @@
 
 ## Resources
 
-* [Glossary](resources/glossary.md)
-* [Release Notes](resources/release-notes.md)
-* [Contributing](resources/contributing.md)
-* [Legal & Privacy](resources/legal-privacy.md)
+* [📚 Glossary](resources/glossary.md)
+* [🎨 Styling Guide](resources/styling-guide.md)
+* [📝 Release Notes](resources/release-notes.md)
+* [🤝 Contributing](resources/contributing.md)
+* [⚖️ Legal & Privacy](resources/legal-privacy.md)

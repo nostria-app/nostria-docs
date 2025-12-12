@@ -11,19 +11,30 @@
   },
   "plugins": [
     "expandable-chapters",
-    "-search",
-    "-lunr"
+    "search-plus",
+    "github",
+    "splitter",
+    "back-to-top-button"
   ],
   "pluginsConfig": {
     "theme-default": {
-      "showLevel": true
+      "showLevel": true,
+      "styles": {
+        "website": "styles/website.css"
+      }
+    },
+    "github": {
+      "url": "https://github.com/nostria-app/nostria"
     }
   },
   "links": {
     "sidebar": {
-      "Nostria Website": "https://www.nostria.app",
-      "Nostria App": "https://nostria.app",
-      "GitHub": "https://github.com/nostria-app/nostria"
+      "🌐 Nostria Website": "https://www.nostria.app",
+      "📱 Nostria App": "https://nostria.app",
+      "💻 GitHub": "https://github.com/nostria-app/nostria"
     }
+  },
+  "styles": {
+    "website": "styles/website.css"
   }
 }

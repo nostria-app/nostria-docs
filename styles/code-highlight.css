@@ -1,0 +1,128 @@
+/* =========================================
+   Enhanced Code Syntax Highlighting
+   ========================================= */
+
+/* Override default highlighting styles */
+.book .book-body .page-wrapper .page-inner section.normal pre > code {
+  background-color: #1e293b;
+  color: #e2e8f0;
+  padding: 1.5em;
+  display: block;
+  overflow-x: auto;
+  border-radius: 8px;
+}
+
+/* Inline code */
+.book .book-body .page-wrapper .page-inner section.normal code {
+  background-color: #f1f5f9;
+  color: #e11d48;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, monospace;
+}
+
+/* Code block container */
+.book .book-body .page-wrapper .page-inner section.normal pre {
+  background-color: #1e293b;
+  border: none;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin: 1.5em 0;
+}
+
+/* Syntax highlighting colors - GitHub inspired */
+.hljs-comment,
+.hljs-quote {
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #fb7185;
+  font-weight: 600;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #fdba74;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #86efac;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #7dd3fc;
+  font-weight: 600;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #fbbf24;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #a78bfa;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #c4b5fd;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #fca5a5;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #60a5fa;
+}
+
+.hljs-meta {
+  color: #94a3b8;
+}
+
+.hljs-deletion {
+  background: #fecdd3;
+}
+
+.hljs-addition {
+  background: #bbf7d0;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+/* Language badge for code blocks */
+pre[class*="language-"]::before {
+  content: attr(class);
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #6366f1;
+  color: white;
+  padding: 4px 10px;
+  font-size: 0.7em;
+  border-bottom-left-radius: 4px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
