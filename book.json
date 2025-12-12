@@ -10,11 +10,9 @@
     "summary": "SUMMARY.md"
   },
   "plugins": [
-    "theme-default",
-    "search",
     "expandable-chapters",
-    "anchors",
-    "theme-codemirror"
+    "-search",
+    "-lunr"
   ],
   "pluginsConfig": {
     "theme-default": {
@@ -23,7 +21,8 @@
   },
   "links": {
     "sidebar": {
-      "Nostria Website": "https://nostria.app",
+      "Nostria Website": "https://www.nostria.app",
+      "Nostria App": "https://nostria.app",
       "GitHub": "https://github.com/nostria-app/nostria"
     }
   }

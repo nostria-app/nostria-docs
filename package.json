@@ -4,8 +4,9 @@
   "description": "Comprehensive documentation for Nostria - Your Social Media",
   "scripts": {
     "validate": "node validate-structure.js",
-    "serve": "echo 'GitBook structure created. You can use GitBook CLI, HonKit, or mdbook to build this.'",
-    "info": "echo 'This documentation is structured for GitBook. See README.md for build instructions.'"
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "info": "echo 'This documentation is structured for GitBook/HonKit. Use npm run serve to preview or npm run build to create static files.'"
   },
   "keywords": [
     "nostria",
@@ -15,5 +16,8 @@
   ],
   "author": "Nostria Team",
   "license": "Unlicense",
-  "devDependencies": {}
+  "devDependencies": {
+    "gitbook-plugin-expandable-chapters": "0.2.0",
+     "honkit": "6.1.4"
+    }
 }

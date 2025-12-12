@@ -4,7 +4,8 @@ Get help and connect with the Nostria community!
 
 ## Official Resources
 
-- [Nostria Website](https://nostria.app)
+- [Nostria Website](https://www.nostria.app)
+- [Nostria App](https://nostria.app)
 - [GitHub Repository](https://github.com/nostria-app/nostria)
 - [Documentation](/) (you're here!)
 
